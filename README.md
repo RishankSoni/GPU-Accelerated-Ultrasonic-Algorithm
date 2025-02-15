@@ -34,7 +34,7 @@ The project contains:
 
 2. Run the MATLAB script directly:
    ```matlab
-   run('Image-generation_code.m')
+   Image-generation_code.m
    ```
 
 Note: The MEX files are pre-compiled and included in the repository. You don't need to compile them again unless you modify the CUDA source code.
