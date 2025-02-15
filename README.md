@@ -1,11 +1,13 @@
 # GPU-Accelerated-Ultrasonic-Algorithm
 
+Arjun Anand Mallya , Rishank Soni
+
 This project implements GPU-optimized ultrasonic beamforming algorithms for faster image processing. The implementation uses CUDA for GPU acceleration through MEX files in MATLAB.
 
 ## Description
 
 The project contains:
-- CUDA implementation of Delay-and-Sum (DAS) beamforming algorithm
+- CUDA implementation of Delay-and-Sum (DAS) Beamforming and Non Linear pth Root Beamforming Algorithms
 - MATLAB code for ultrasonic image generation
 - GPU-accelerated processing using MEX files
 
