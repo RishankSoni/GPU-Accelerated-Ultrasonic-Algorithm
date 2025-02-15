@@ -1,9 +1,16 @@
 # GPU-Accelerated-Ultrasonic-Algorithm
 
-Arjun Anand Mallya , Rishank Soni
-
 This project implements GPU-optimized ultrasonic beamforming algorithms for faster image processing. The implementation uses CUDA for GPU acceleration through MEX files in MATLAB.
 
+
+## Authors  
+- **Arjun Anand Mallya**  
+- **Rishank Soni**  
+
+### Under the guidance of:  
+**Professor Himanshu Shekhar**  
+
+---
 ## Description
 
 The project contains:
